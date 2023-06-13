@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+    background: rgb(63,251,227);
+    background: linear-gradient(90deg, rgba(63,251,227,1) 32%, rgba(252,70,107,1) 99%);
+    margin-top: 6pc;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border: solid 2px purple
+}
+
+.suma{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.suma1{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.suma2{
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: black solid 5px;
+    margin-left: 31pc;
+}
+.boton{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+button{
+    font-size: 17px;
+    border-radius: 25px;
+    background-color: rgb(126, 208, 219)
+}
