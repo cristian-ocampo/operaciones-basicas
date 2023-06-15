@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: fantasy;
+   background-color: blueviolet;
+   background-size: cover;
+   color: white;
+}
+.titulo{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10pc;
+}
+.letra{
+    justify-content: center;
+    display: flex;
+    font-size: 35px;
+    margin: 20px;
+}
+.caja{
+    margin-left: 33pc;
+    font-size: 15px;
+    margin-top: 25px;
+    border-radius: 10px;
+    border: solid 1px white;
+}
+.boton{
+    display: flex;
+    margin-left: 36pc;
+    margin-top: 25px;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+}
